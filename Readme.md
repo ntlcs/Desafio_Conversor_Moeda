@@ -1,7 +1,6 @@
 ## Conversor de Moeda - Usando a API Exchanger Rate
 
-Este projeto é um conversor de moeda que utiliza a API Exchanger Rate para obter informações atualizadas sobre as taxas de câmbio. O aplicativo é desenvolvido em Java e permite aos usuários converter valores entre diferentes moedas. Abaixo estão os principais pontos que você pode incluir no seu README:
-
+Este projeto é um conversor de moeda que utiliza a API Exchanger Rate para obter informações atualizadas sobre as taxas de câmbio. O aplicativo é desenvolvido em Java e permite aos usuários converter valores entre diferentes moedas.
 ### Funcionalidades
 
 1. **Conversão de Moedas**: Os usuários podem escolher entre várias opções de conversão de moedas, incluindo:
@@ -26,15 +25,6 @@ Este projeto é um conversor de moeda que utiliza a API Exchanger Rate para obte
 3. Compile o código-fonte.
 4. Execute o aplicativo.
 
-### Exemplo de Uso
-
-```java
-// Exemplo de código para converter dólar para euro
-double valorDolar = 100.0;
-double taxaDolarParaEuro = 0.85; // Taxa de câmbio atual
-double valorEuro = valorDolar * taxaDolarParaEuro;
-System.out.println("100 dólares equivalem a " + valorEuro + " euros.");
-```
 
 ### Agradecimentos
 
