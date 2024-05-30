@@ -14,9 +14,17 @@ Este projeto é um conversor de moeda que utiliza a API Exchanger Rate para obte
     - Euro para Dólar
     - Euro para Libra Esterlina
 
-2. **Interface de Usuário Simples**: O aplicativo possui uma interface de usuário baseada em texto que guia os usuários através das opções de conversão.
 
-3. **Encerramento do Programa**: Os usuários podem escolher a opção para encerrar o programa.
+2.** Biblioteca Externa Utilizada**
+Gson: Utilizado para fazer o parsing de JSON retornado pela API de taxa de câmbio.
+
+3.**Exibição do histórico de conversões realizadas durante a sessão.**
+
+4.**Formatação adequada dos valores monetários exibidos.**
+
+5.**Interface de Usuário Simples**: O aplicativo possui uma interface de usuário baseada em texto que guia os usuários através das opções de conversão.
+
+5. **Encerramento do Programa**: Os usuários podem escolher a opção para encerrar o programa.
 
 ### Como Executar o Aplicativo
 
