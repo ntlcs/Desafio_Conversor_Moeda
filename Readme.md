@@ -15,9 +15,9 @@ Este projeto é um conversor de moeda que utiliza a API Exchanger Rate para obte
     - Euro para Libra Esterlina
 
 
-2. ** Biblioteca Externa Utilizada**
+2. **Biblioteca Externa Utilizada**
    
-Gson: Utilizado para fazer o parsing de JSON retornado pela API de taxa de câmbio.
+    Gson: Utilizado para fazer o parsing de JSON retornado pela API de taxa de câmbio.
 
 3. **Exibição do histórico de conversões realizadas durante a sessão.**
 
